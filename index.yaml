@@ -3,10 +3,10 @@ entries:
   rabbitmq-ha:
   - apiVersion: v1
     appVersion: 3.7.15
-    created: "2019-08-09T11:56:06.9694047+08:00"
+    created: "2019-08-09T14:50:34.804763+08:00"
     description: Highly available RabbitMQ cluster, the open source message broker
       software that implements the Advanced Message Queuing Protocol (AMQP).
-    digest: c18ce9aa60e887db4fa2a73854434c9d5e290da6e4e29ab86e721719b2972c3c
+    digest: 100fe3ad5d7521daa27f11c116069a6a8fad1c5f93f9e1c4c8ef7847991992e3
     home: https://www.rabbitmq.com
     icon: https://bitnami.com/assets/stacks/rabbitmq/img/rabbitmq-stack-220x234.png
     keywords:
@@ -25,4 +25,21 @@ entries:
     urls:
     - rabbitmq-ha-1.30.0.tgz
     version: 1.30.0
-generated: "2019-08-09T11:56:06.968407+08:00"
+  skywalking:
+  - apiVersion: v1
+    appVersion: 6.1.0
+    created: "2019-08-09T14:50:34.8057602+08:00"
+    description: Apache SkyWalking APM System
+    digest: 4ebcf639239e4664df0525bae1b950a1f414a49a8ecb3c463404ec6d3e742578
+    home: https://www.elastic.co/products/elasticsearch
+    icon: https://github.com/apache/skywalking-website/blob/master/docs/.vuepress/public/assets/logo.svg
+    maintainers:
+    - email: hanahmily@gmail.com
+      name: hanahmily
+    name: skywalking
+    sources:
+    - https://github.com/apache/skywalking-kubernetes
+    urls:
+    - skywalking-0.1.0.tgz
+    version: 0.1.0
+generated: "2019-08-09T14:50:34.8037654+08:00"
