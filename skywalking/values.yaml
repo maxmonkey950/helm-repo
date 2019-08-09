@@ -77,6 +77,6 @@ ui:
     # loadBalancerSourceRanges: []
 
 elasticsearch:
-  enabled: true
+  enabled: false
 
 nameOverride: ""
