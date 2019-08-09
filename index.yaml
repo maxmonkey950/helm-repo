@@ -3,7 +3,7 @@ entries:
   rabbitmq-ha:
   - apiVersion: v1
     appVersion: 3.7.15
-    created: "2019-08-09T16:28:36.3661292+08:00"
+    created: "2019-08-09T16:36:49.1675319+08:00"
     description: Highly available RabbitMQ cluster, the open source message broker
       software that implements the Advanced Message Queuing Protocol (AMQP).
     digest: 100fe3ad5d7521daa27f11c116069a6a8fad1c5f93f9e1c4c8ef7847991992e3
@@ -28,9 +28,9 @@ entries:
   skywalking:
   - apiVersion: v1
     appVersion: 6.1.0
-    created: "2019-08-09T16:28:36.3661292+08:00"
+    created: "2019-08-09T16:36:49.1675319+08:00"
     description: Apache SkyWalking APM System
-    digest: 60dd1d6e782f277a30aa40852ed5b5ac2e385edff34e603a7e8075b971d70252
+    digest: 3b1d6d2016edacf36d1b8878c71f2b376e8a2752135e736d42eebaa8fd0dbf4b
     home: https://www.elastic.co/products/elasticsearch
     icon: https://github.com/apache/skywalking-website/blob/master/docs/.vuepress/public/assets/logo.svg
     maintainers:
@@ -42,4 +42,4 @@ entries:
     urls:
     - skywalking-0.1.0.tgz
     version: 0.1.0
-generated: "2019-08-09T16:28:36.3641343+08:00"
+generated: "2019-08-09T16:36:49.1655474+08:00"
